@@ -1,0 +1,274 @@
+[
+  {
+    "login": "JBT36K",
+    "password": "prueba01",
+    "nombre": "Juan Buenaventura",
+    "apellidos": "Benítez Torres",
+    "role": "alumno",
+    "ListaNotas": [
+      {
+        "id": "4DM/4DMN",
+        "nombre": "Desarrollo de interfaces",
+        "nota": 10.0,
+        "curso": 2,
+        "ciclo": "CFGS en Desarrollo de aplicaciones multiplataforma (IoT)"
+      }
+    ]
+  },
+  {
+    "login": "PBJ23P",
+    "password": "prueba01",
+    "nombre": "pablo Antonio",
+    "apellidos": "Bonet Jiménez",
+    "role": "alumno",
+    "ListaNotas": [
+      {
+        "id": "4DM/4DMN",
+        "nombre": "Desarrollo de interfaces",
+        "nota": 10.0,
+        "curso": 2,
+        "ciclo": "CFGS en Desarrollo de aplicaciones multiplataforma (IoT)"
+      }
+    ]
+  },
+  {
+    "login": "JCG77K",
+    "password": "prueba01",
+    "nombre": "Javier",
+    "apellidos": "Cortés Gómez",
+    "role": "alumno",
+    "ListaNotas": [
+      {
+        "id": "4DM/4DMN",
+        "nombre": "Desarrollo de interfaces",
+        "nota": 10.0,
+        "curso": 2,
+        "ciclo": "CFGS en Desarrollo de aplicaciones multiplataforma (IoT)"
+      }
+    ]
+  },
+  {
+    "login": "FGA88N",
+    "password": "prueba01",
+    "nombre": "Francisco",
+    "apellidos": "García Albaladejo",
+    "role": "alumno",
+    "ListaNotas": [
+      {
+        "id": "4DM/4DMN",
+        "nombre": "Desarrollo de interfaces",
+        "nota": 10.0,
+        "curso": 2,
+        "ciclo": "CFGS en Desarrollo de aplicaciones multiplataforma (IoT)"
+      }
+    ]
+  },
+  {
+    "login": "JGH56A",
+    "password": "prueba01",
+    "nombre": "José María",
+    "apellidos": "Garre Hermosilla",
+    "role": "alumno",
+    "ListaNotas": [
+      {
+        "id": "4DM/4DMN",
+        "nombre": "Desarrollo de interfaces",
+        "nota": 10.0,
+        "curso": 2,
+        "ciclo": "CFGS en Desarrollo de aplicaciones multiplataforma (IoT)"
+      }
+    ]
+  },
+  {
+    "login": "DGC14A",
+    "password": "prueba01",
+    "nombre": "David",
+    "apellidos": "González Cañavate",
+    "role": "alumno",
+    "ListaNotas": [
+      {
+        "id": "4DM/4DMN",
+        "nombre": "Desarrollo de interfaces",
+        "nota": 10.0,
+        "curso": 2,
+        "ciclo": "CFGS en Desarrollo de aplicaciones multiplataforma (IoT)"
+      }
+    ]
+  },
+  {
+    "login": "AHE11H",
+    "password": "prueba01",
+    "nombre": "Antonio",
+    "apellidos": "Hernández Engui",
+    "role": "alumno",
+    "ListaNotas": [
+      {
+        "id": "4DM/4DMN",
+        "nombre": "Desarrollo de interfaces",
+        "nota": 10.0,
+        "curso": 2,
+        "ciclo": "CFGS en Desarrollo de aplicaciones multiplataforma (IoT)"
+      }
+    ]
+  },
+  {
+    "login": "PHM89Y",
+    "password": "prueba01",
+    "nombre": "Pedro José",
+    "apellidos": "Hernández Montoya",
+    "role": "alumno",
+    "ListaNotas": [
+      {
+        "id": "4DM/4DMN",
+        "nombre": "Desarrollo de interfaces",
+        "nota": 10.0,
+        "curso": 2,
+        "ciclo": "CFGS en Desarrollo de aplicaciones multiplataforma (IoT)"
+      }
+    ]
+  },
+  {
+    "login": "JLG31J",
+    "password": "prueba01",
+    "nombre": "José Alberto",
+    "apellidos": "Laria González",
+    "role": "alumno",
+    "ListaNotas": [
+      {
+        "id": "4DM/4DMN",
+        "nombre": "Desarrollo de interfaces",
+        "nota": 10.0,
+        "curso": 2,
+        "ciclo": "CFGS en Desarrollo de aplicaciones multiplataforma (IoT)"
+      }
+    ]
+  },
+  {
+    "login": "JLG09D",
+    "password": "prueba01",
+    "nombre": "José Ramón",
+    "apellidos": "López Guillén",
+    "role": "alumno",
+    "ListaNotas": [
+      {
+        "id": "4DM/4DMN",
+        "nombre": "Desarrollo de interfaces",
+        "nota": 10.0,
+        "curso": 2,
+        "ciclo": "CFGS en Desarrollo de aplicaciones multiplataforma (IoT)"
+      }
+    ]
+  },
+  {
+    "login": "DMG98H",
+    "password": "prueba01",
+    "nombre": "Daniel",
+    "apellidos": "Marín Guillén",
+    "role": "alumno",
+    "ListaNotas": [
+      {
+        "id": "4DM/4DMN",
+        "nombre": "Desarrollo de interfaces",
+        "nota": 10.0,
+        "curso": 2,
+        "ciclo": "CFGS en Desarrollo de aplicaciones multiplataforma (IoT)"
+      }
+    ]
+  },
+  {
+    "login": "MMZ53K",
+    "password": "prueba01",
+    "nombre": "Mohamed",
+    "apellidos": "Meziane Zaid",
+    "role": "alumno",
+    "ListaNotas": [
+      {
+        "id": "4DM/4DMN",
+        "nombre": "Desarrollo de interfaces",
+        "nota": 10.0,
+        "curso": 2,
+        "ciclo": "CFGS en Desarrollo de aplicaciones multiplataforma (IoT)"
+      }
+    ]
+  },
+  {
+    "login": "PML01H",
+    "password": "prueba01",
+    "nombre": "Pablo",
+    "apellidos": "Morán López",
+    "role": "alumno",
+    "ListaNotas": [
+      {
+        "id": "4DM/4DMN",
+        "nombre": "Desarrollo de interfaces",
+        "nota": 10.0,
+        "curso": 2,
+        "ciclo": "CFGS en Desarrollo de aplicaciones multiplataforma (IoT)"
+      }
+    ]
+  },
+  {
+    "login": "AP85W",
+    "password": "prueba01",
+    "nombre": "Andrea",
+    "apellidos": "Papa",
+    "role": "alumno",
+    "ListaNotas": [
+      {
+        "id": "4DM/4DMN",
+        "nombre": "Desarrollo de interfaces",
+        "nota": 10.0,
+        "curso": 2,
+        "ciclo": "CFGS en Desarrollo de aplicaciones multiplataforma (IoT)"
+      }
+    ]
+  },
+  {
+    "login": "RPG76A",
+    "password": "prueba01",
+    "nombre": "Rubén",
+    "apellidos": "Pardo García",
+    "role": "alumno",
+    "ListaNotas": [
+      {
+        "id": "4DM/4DMN",
+        "nombre": "Desarrollo de interfaces",
+        "nota": 10.0,
+        "curso": 2,
+        "ciclo": "CFGS en Desarrollo de aplicaciones multiplataforma (IoT)"
+      }
+    ]
+  },
+  {
+    "login": "DQL47T",
+    "password": "prueba01",
+    "nombre": "Daniel",
+    "apellidos": "Quintero Librero",
+    "role": "alumno",
+    "ListaNotas": [
+      {
+        "id": "4DM/4DMN",
+        "nombre": "Desarrollo de interfaces",
+        "nota": 10.0,
+        "curso": 2,
+        "ciclo": "CFGS en Desarrollo de aplicaciones multiplataforma (IoT)"
+      }
+    ]
+  },
+  {
+    "login": "ARG70A",
+    "password": "prueba01",
+    "nombre": "Antonio",
+    "apellidos": "Ruíz García",
+    "role": "alumno",
+    "ListaNotas": [
+      {
+        "id": "4DM/4DMN",
+        "nombre": "Desarrollo de interfaces",
+        "nota": 10.0,
+        "curso": 2,
+        "ciclo": "CFGS en Desarrollo de aplicaciones multiplataforma (IoT)"
+      }
+    ]
+  }
+]
