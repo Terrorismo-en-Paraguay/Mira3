@@ -18,6 +18,8 @@ import java.util.ArrayList;
 
 public class MainApp extends Application {
     public static ArrayList<Usuario> listaUsuarios  = new ArrayList<>();
+
+    public static Usuario usuario_actual;
     @Override
     public void start(Stage stage) throws IOException {
 
