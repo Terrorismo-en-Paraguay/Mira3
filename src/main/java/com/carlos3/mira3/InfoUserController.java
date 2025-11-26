@@ -5,28 +5,34 @@ import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.Alert;
 import javafx.scene.control.ButtonType;
+import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
 
 public class InfoUserController {
     @FXML
-    public TextField inputAlbum;
+    public Label inputlogin;
     @FXML
-    public TextField inputNombre;
+    public Label inputNombre;
     @FXML
-    public TextField inputPais;
+    public Label inputapellido;
     @FXML
-    public TextField inputCancion;
+    public Label inputrole;
 
-    public void EnviarAlbum(Usuario useractual) {
+    public void setUsuario(Usuario useractual) {
         if (useractual != null) {
             // Rellenamos los campos de la vista con los datos del álbum
-            inputAlbum.setText(useractual.getNombre());
+            inputNombre.setText(useractual.getNombre());
+            inputapellido.setText(useractual.getApellidos());
+            inputlogin.setText(useractual.getLogin());
+            inputrole.setText(useractual.getRole());
         } else {
             // Si por alguna razón llega null, mostramos un error
-            Alert alert = new Alert(Alert.AlertType.ERROR,"Se ha producido un error al obtener el album", ButtonType.OK);
+            Alert alert = new Alert(Alert.AlertType.ERROR, "Se ha producido un error al obtener el usuario",
+                    ButtonType.OK);
             alert.showAndWait();
         }
     }
+
     // Cierra completamente la aplicación
     public void handlerCerrarAplicacion(ActionEvent actionEvent) {
         System.exit(0);
